@@ -23,6 +23,9 @@ The report is designed to be user-friendly, highly informative, and easy to inte
 
 ### 🔹 Dashboard 1: Summary
 
+![Screenshot (18)](https://github.com/user-attachments/assets/66ff237f-801d-4b63-996e-12488f8f054c)
+
+
 This dashboard provides a high-level snapshot of the overall loan performance using Key Performance Indicators (KPIs). These KPIs track trends over time and compare Month-to-Date (MTD) values and Month-over-Month (MoM) changes. 
 
 #### Key Metrics:
@@ -97,6 +100,9 @@ Each row includes:
 
 ## 📊 Dashboard 2: Overview – Visual Insights
 
+![Screenshot (18)](https://github.com/user-attachments/assets/2e9ca98f-3ddf-43b2-859d-091d0c32e222)
+
+
 This dashboard uses charts and maps to make data visually accessible and easy to analyze.
 
 ### 1. **Monthly Trends – Line Chart**
@@ -126,6 +132,9 @@ This dashboard uses charts and maps to make data visually accessible and easy to
 ---
 
 ## 📋 Dashboard 3: Details – Deep Dive
+
+![Screenshot (18)](https://github.com/user-attachments/assets/b81f89ab-717e-43a5-acad-e7ee881fbf34)
+
 
 The Details Dashboard serves as a **comprehensive data exploration interface**. It includes:
 - All loan records with filters for deep analysis
