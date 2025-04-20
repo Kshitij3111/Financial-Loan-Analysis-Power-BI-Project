@@ -136,6 +136,7 @@ The Details Dashboard serves as a **comprehensive data exploration interface**. 
 
 ## 🔧 Tools & Technologies
 
+- **MySQL** – Used to get absolute figure using complex calculations
 - **Power BI** – Used to build the dashboards and visuals
 - **Excel / CSV Data** – Source data files used for analysis
 - **Data Modeling** – Relationships, DAX formulas, calculated fields for KPI logic
