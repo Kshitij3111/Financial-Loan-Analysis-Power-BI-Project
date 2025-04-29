@@ -1,4 +1,4 @@
-# 🏦 Financial Loan Project  
+# 🏦 Financial Loan Analysis  
 ## Project Description
 ---
 ## 📘 Introduction
