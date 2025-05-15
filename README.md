@@ -100,7 +100,7 @@ Each row includes:
 
 ## 📊 Dashboard 2: Overview – Visual Insights
 
-![Screenshot (18)](https://github.com/user-attachments/assets/2e9ca98f-3ddf-43b2-859d-091d0c32e222)
+![Screenshot (20)](https://github.com/user-attachments/assets/ce59735b-75bb-47e1-bc7e-35fb64843253)
 
 
 This dashboard uses charts and maps to make data visually accessible and easy to analyze.
@@ -133,7 +133,7 @@ This dashboard uses charts and maps to make data visually accessible and easy to
 
 ## 📋 Dashboard 3: Details – Deep Dive
 
-![Screenshot (18)](https://github.com/user-attachments/assets/b81f89ab-717e-43a5-acad-e7ee881fbf34)
+![Screenshot (21)](https://github.com/user-attachments/assets/90c300f9-4d37-4c2e-b56d-af877e55ec5b)
 
 
 The Details Dashboard serves as a **comprehensive data exploration interface**. It includes:
